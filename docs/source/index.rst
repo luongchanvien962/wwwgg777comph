@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+GG777 - The Top Online Casino in the Philippines for 2024, Offering Exciting Games and Generous Bonuses
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`GG777 <https://www-gg777.com.ph/>`_ is the leading online casino in the Philippines in 2024, established in April 2023 and headquartered on the 18th floor of PBCOM Tower in Manila. Licensed by both the First Cagayan Leisure and Resort Corporation and the Cagayan Economic Zone Authority, GG777 offers players a wide range of exciting games, including online casino, slot games, fishing games, sports betting, and online cockfighting, all with competitive winning rates. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+With over 2 million users after just one year of operation, GG777 stands out with its 100% welcome bonus up to 177 PHP, a 27 PHP Freebet for downloading the app, and many other attractive promotions for both new and loyal members.
 
-.. note::
+Address: 8846 Sampaloc St, corner Estrella St, Makati, 1203 Metro Manila, Philippines. 
 
-   This project is under active development.
+Phone: 0905488499. 
 
-Contents
---------
+Email: wwwgg777comph@gmail.com. 
 
-.. toctree::
+Website: https://www-gg777.com.ph/ 
 
-   usage
-   api
+#gg777 #gg777casino #gg777slot #gg777login #gg777app
